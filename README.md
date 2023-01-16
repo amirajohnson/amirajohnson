@@ -1,4 +1,4 @@
-- 👋🏾 Hi, my name is Amira Johnson! I am currently a sophomore at Carnegie Mellon University studying Computational Biology and Human-Computer Interaction.
+- 👋🏾 Hello! My name is Amira Johnson and I am currently a sophomore at Carnegie Mellon University studying Computational Biology and Human-Computer Interaction.
 - 👩🏾‍🔬 I’m interested in user experience, front-end development, autonomy, and bioinformatics.
 - 👩🏾‍🏫 I’m currently learning about the applications of computer science to biological research and human psychology.
 - 📫 To learn more about me, you can find me on LinkedIn: www.linkedin.com/in/amirajohnson10
